@@ -3,7 +3,7 @@ import logo from './assets/logo.png';
 
 function Footer(){
     return(
-        <footer>
+        <footer className="footer">
             <img src={logo} alt="Little Lemon Logo" />
             <div className="footer-content">
                 <div className="doormat-nav">
